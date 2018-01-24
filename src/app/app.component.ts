@@ -8,3 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app works!';
 }
+
+
+/**
+ * https://github.com/valor-software/ng2-dragula#usage
+ */
